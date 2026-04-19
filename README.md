@@ -10,7 +10,7 @@ This report provides a comprehensive overview of the test execution activities c
 
 The screenshot below captures the TestRail execution overview used as source evidence for this documentation.
 
-![TestRail execution overview](assets/images/testrail-profile-settings-overview.jpeg)
+![TestRail execution overview](assets/images/testrail-profile-settings-overview.png)
 
 ## Scope Covered
 
@@ -34,7 +34,7 @@ The executed test set focuses on the **Profile Settings** area, including:
 - `reports/test-execution-report.md`: Detailed execution report
 - `data/test-cases-results.csv`: Test case level results in CSV format
 - `data/test-summary.json`: Summary metrics in JSON format
-- `assets/images/testrail-profile-settings-overview.jpeg`: TestRail execution screenshot
+- `assets/images/testrail-profile-settings-overview.png`: TestRail execution screenshot
 
 ## Release Readiness (Current)
 

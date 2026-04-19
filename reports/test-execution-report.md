@@ -37,7 +37,7 @@ Execution results indicate that core flows are partially stable, but several fun
 
 The screenshot below captures the TestRail results referenced in this report.
 
-![TestRail profile settings execution overview](../assets/images/testrail-profile-settings-overview.jpeg)
+![TestRail profile settings execution overview](../assets/images/testrail-profile-settings-overview.png)
 
 ## 4. Execution Results
 
