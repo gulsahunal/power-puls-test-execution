@@ -1,0 +1,15 @@
+id,test_case,result
+C1,Minimum character validation in profile settings,Failed
+C3,Current weight validity check,Passed
+C4,Target weight validity check,Passed
+C5,Birth date age limit check,Passed
+C6,Blood group selection validity check,Passed
+C7,Blood group descriptions clarity,Failed
+C8,Gender selection validity check,Passed
+C10,Required fields completion check,Passed
+C11,Form data format validation,Passed
+C13,Height information validity check,Passed
+C14,Latin characters enforcement while changing name,Failed
+C15,User card daily calorie requirement,Failed
+C16,User card daily sports duration,Failed
+C17,User card avatar change area,Passed

@@ -1,0 +1,17 @@
+{
+  "application": "Power Puls",
+  "module": "Profile Settings",
+  "testRunDate": "2025-03-22",
+  "totals": {
+    "executed": 14,
+    "passed": 9,
+    "failed": 5,
+    "blocked": 0,
+    "notRun": 0
+  },
+  "rates": {
+    "passRate": 64.29,
+    "failRate": 35.71
+  },
+  "releaseReadiness": "Not Ready"
+}
